@@ -1,23 +1,54 @@
 [
-    {
-        "site": "houseofcheese.com",
-        "units": ["banner", "sidebar"],
-        "bids": [
-            {
-                "bidder": "AUCT",
-                "unit": "banner",
-                "bid": 35
-            },
-            {
-                "bidder": "BIDD",
-                "unit": "sidebar",
-                "bid": 60
-            },
-            {
-                "bidder": "AUCT",
-                "unit": "sidebar",
-                "bid": 55
-            }
-        ]
-    }
+  {
+    "site": "houseofcheese.com",
+    "units": ["banner", "sidebar"],
+    "bids": [
+      {
+        "bidder": "AUCT",
+        "unit": "banner",
+        "bid": 35
+      },
+      {
+        "bidder": "BIDD",
+        "unit": "sidebar",
+        "bid": 60
+      },
+      {
+        "bidder": "AUCT",
+        "unit": "sidebar",
+        "bid": 55
+      },
+      {
+        "bidder": "AUCT",
+        "unit": "sidebar",
+        "bid": 10000000000000000000000
+      }
+    ]
+  },
+  {
+    "site": "houseofcheese.com",
+    "units": ["sidebar"],
+    "bids": [
+      {
+        "bidder": "1",
+        "unit": "banner",
+        "bid": 35
+      },
+      {
+        "bidder": "BIDD",
+        "unit": "sidebar",
+        "bid": 1
+      },
+      {
+        "bidder": "1",
+        "unit": "sidebar",
+        "bid": 55
+      },
+      {
+        "bidder": "1",
+        "unit": "sidebar",
+        "bid": 1000
+      }
+    ]
+  }
 ]
