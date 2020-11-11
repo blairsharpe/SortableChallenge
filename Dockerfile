@@ -15,4 +15,4 @@ COPY . .
 
 # Run the solution. Your package.json should have start script that invokes
 # your code
-CMD ["bash", "run.sh"]
+CMD ["npm", "start"]

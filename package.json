@@ -5,7 +5,7 @@
   "main": "auction.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./run.sh"
+    "start": "bash ./run.sh"
   },
   "repository": {
     "type": "git",
